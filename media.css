@@ -1,0 +1,27 @@
+@media(max-width:600px){
+    .add {
+        width: 50%;
+
+    }
+    .about_content{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .about_numbers {
+        display: flex;
+        margin-bottom:20px ;
+        flex-wrap: wrap;
+    
+    }
+}
+
+@media(max-width:507px) {
+    .nav_item {
+        margin: 0 10px;
+        font-size: 20px;
+    }
+    .footer_container {
+        flex-direction: column;
+
+    }
+}
