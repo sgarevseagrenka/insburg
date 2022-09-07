@@ -201,11 +201,10 @@
 
 }
 .table{
-    margin: auto;
     max-width:600px ;
     width: 100%;
     border-collapse:collapse;
-    margin: 20px 0;
+    margin: 20px auto;
 }
 th{
     background-color: blue;
